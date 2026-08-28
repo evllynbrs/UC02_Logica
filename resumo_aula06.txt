@@ -2,7 +2,7 @@ Resumo da aula 06
 Nessa aula foi falado sobre as variáveis 
 cadeia - para textos (Exemplo: João)
 inteiro - para números, idade, quantidades, etc (Exemplo: 12)
-caracter - para sexo (Exemplo: 'M' para masculino', 'F' para feminino
+caracter - para sexo (Exemplo: 'M' para masculino', 'F' para feminino)
 real - para números (Exemplo: 1067.00)
 + - para somar
 - - para subtrair 

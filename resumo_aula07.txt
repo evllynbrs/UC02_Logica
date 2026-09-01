@@ -1,0 +1,8 @@
+Resumo da aula 07
+Nessa aula foi falado sobre os operadores lógicos: E, OU, NÃO
+
+E - Para quando todas as condições forem verdadeiras. Exemplo: O aluno poderá fazer o passeio se tiver autorização dos pais E trazer a assinatura dos responsáveis. (Para o aluno fazer o passeio precisa cumprir todas as condições)
+
+OU - Para quando uma as condições forem verdadeiras. Exemplo: O cliente só pagará meia-entrada se for menor de 12 anos OU apresentar a carteira estudantil. (Para o cliente pagar meia-entrada precisa cumprir uma das condições)
+
+NÃO - Para inverter a condição. Exemplo: Poderei sair se NÃO estiver chovendo. (A condição precisa ser verdadeira para que eu possa sair)
